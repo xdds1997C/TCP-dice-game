@@ -29,8 +29,7 @@ while True:
 				break
 3.运行方式        
 a运行服务端
-![]
- (https://github.com/xdds1997C/TCP-dice-game/blob/master/1.png)
+![](https://github.com/xdds1997C/TCP-dice-game/blob/master/1.png)
 b在另一个命令行窗口运行客户端：
  
 如图所示，客户端接受到服务端的旁白和预头彩的点数并使用骰子的样式展示出来，然后需要用户输入本次所压的点型和金额。
